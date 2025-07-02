@@ -335,7 +335,7 @@ If you use this software in your research, please cite:
   title={OBRE: Optimal Bias Robust Estimator Algorithms},
   author={Moiseev, Igor},
   year={2011},
-  doi={10.5281/zenodo.xxxxx},
+  doi={10.5281/zenodo.48265},
   url={https://github.com/moiseevigor/obre}
 }
 ```
